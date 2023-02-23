@@ -1,1 +1,1 @@
-This repository will host the code associated to the paper "Bures-Wasserstein Barycenters and Low-Rank Matrix Recovery", https://arxiv.org/abs/2210.14671.
+This repository will host the code associated to the paper "Bures-Wasserstein Barycenters and Low-Rank Matrix Recovery", by Tyler Maunu, Thibaut Le Gouic, and Philippe Rigollet. The paper can be downloaded from https://arxiv.org/abs/2210.14671.
